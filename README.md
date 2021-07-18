@@ -1,2 +1,2 @@
-# DAA-Lab-
+# DAA-Lab
 DAA Lab Assignments
